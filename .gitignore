@@ -1,0 +1,16 @@
+#dependencies
+/node_modules/*
+
+#production
+/build/*
+/dist/*
+
+#misc
+/.idea/
+npm-debug.log*
+
+#NOT CONFIRM
+package-lock.json
+npm-debug.log
+
+.env
